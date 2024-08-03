@@ -470,7 +470,7 @@ class _DetailScreenState extends State<DetailScreen> {
                         height: 200,
                         width: double.infinity,
                         decoration: BoxDecoration(
-                          color: Colors.black,
+                          color: Colors.black12,
                           borderRadius: BorderRadius.circular(24),
                         ),
                         child: ClipRRect(
